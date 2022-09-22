@@ -110,6 +110,15 @@ i {
     font-size: 40px;
 }
 
+.social-list li a {
+    color: #640000;
+    transition: transform .3s;
+}
+
+.social-list li a:hover {
+    transform: scale(1.1);
+}
+
 /* animation */
 
 header div {
