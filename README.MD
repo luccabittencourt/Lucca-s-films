@@ -4,7 +4,7 @@
 
 Projeto construído a partir do projeto feito anteriormente no evento da Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://lucca-s-films-hsmb.vercel.app)
 
 ## 🛠 Tecnologias
 
